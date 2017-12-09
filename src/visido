@@ -1,0 +1,28 @@
+frame 帧
+scale 规模
+sequence 序列
+rotation 旋转
+translation 平移
+store 存储
+coordinate 坐标
+feature point 特征点
+intrinsic 内在的，本质的
+extrinsic 外在的
+essential matrix 本质矩阵
+calib 标定
+pixel 像素
+
+C++中的小知识：
+getline的用法：getline(istream &in, string &s)，从输入流读入一行到string s，直到读入了文件结束标志 或者 读到一个新行 或者 达到字符串的最大长度；如果getling没有读入字符，将返回false，可用于判断文件是否结束。
+
+istringstream类的用法：要包含头文件<sstream>，用于执行C++风格的串流的输入操作，函数原型为：istringstream::istringstream(string str)；作用是从string对象str中读取字符。
+
+ofstream：从内存到硬盘，用来创建一个文件
+ifstream：从硬盘到内存
+
+%06d：整数按照6位数进行输出，小于6位数的用0补齐，比如60就显示000060；大于6位数的显示原数，比如60000000就显示60000000。
+
+
+
+
+
