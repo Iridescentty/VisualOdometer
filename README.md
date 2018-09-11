@@ -7,6 +7,7 @@
 输入
 
 ```g++ slam_kitti.cpp slam_kitti_imp.cpp `pkg-config --cflags opencv` `pkg-config --libs opencv | sed 's/ -lippicv//g'` `pkg-config --cflags eigen3` `pkg-config --libs eigen3` -o  VisualOdo```
+
 ```./VisualOdo```
 
 参考：
