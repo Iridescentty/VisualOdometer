@@ -1,4 +1,6 @@
-# ***实现了简单的视觉里程计，数据在dataset/sequences/00/image_0/里***
+# ***实现了简单的视觉里程计***
+
+**数据在dataset/sequences/00/image_0/里**
 
 ## ***编译：***
 
